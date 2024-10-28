@@ -45,15 +45,6 @@ To get a local copy up and running follow these simple steps.
 3. Set up environment variables:
    - Create a `.env` file after creating a `config folder` in the backend directory, containing the following variables:
    ```env
-   PORT=
-   CLOUDINARY_API_KEY=
-   CLOUDINARY_API_SECRET=
-   CLOUDINARY_CLOUD_NAME=
-   FRONTEND_URL=
-   DB_URL=
-   JWT_SECRET_KEY=
-   JWT_EXPIRE=
-   COOKIE_EXPIRE=
    PORT = 
    MONGODB = 
    SECRET_KEY = 
